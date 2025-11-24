@@ -4,6 +4,9 @@ opencv-python-headless
 numpy
 pillow
 matplotlib
+tensorflow-datasets
+scikit-learn
+seaborn
 
 # Utilities
 tqdm==4.66.1
