@@ -5,7 +5,7 @@ class Config:
     
     # Training parameters
     BATCH_SIZE = 32
-    EPOCHS = 3 
+    EPOCHS = 1 
     FINE_TUNE_EPOCHS = 3
     LEARNING_RATE = 0.0001
     FINE_TUNE_LR = 0.00001
